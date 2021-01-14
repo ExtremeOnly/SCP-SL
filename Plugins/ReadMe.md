@@ -6,8 +6,8 @@ Lista naszych Pluginów:
 
 Liczba | Nazwa pluginu | Aktualny
 -------|---------------|----------
-1. | Admin Toolbox | TAK
-2. | CustomAnnouncements | TAK
-3. | CustomBroadcasts | TAK
-4. | CustomLoadouts | NIE
-5. | SCPermissions | NIE
+1.     | Admin Toolbox | TAK
+2.     | CustomAnnouncements | TAK
+3.     | CustomBroadcasts | TAK
+4.     | CustomLoadouts | NIE
+5.     | SCPermissions | NIE
