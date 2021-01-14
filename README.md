@@ -6,5 +6,5 @@ NIE JESTEŚMY AUTORAMI PLUGINÓW A TYLKO KORZYSTAMY Z NICH
 
 #### Nasze strony
 
-Strona www: https://ExtremeOnly.net.pl/www/scp-sl </div >
+Strona www: https://ExtremeOnly.net.pl/www/scp-sl </ div>
 Statusy serwerów: https://extremeonly.statuspage.io/
