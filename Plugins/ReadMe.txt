@@ -5,7 +5,6 @@ PAMIĘTAJ MY NIE JESTEŚMY AUTORAMI PLUGINÓW MY Z NICH TYLKO KORZYSTAMY I DODAJ
 Lista naszych Pluginów:
 
 Liczba | Nazwa pluginu | Aktualny
--------|---------------|---------
 1. | Admin Toolbox | TAK
 2. | CustomAnnouncements | TAK
 3. | CustomBroadcasts | TAK
