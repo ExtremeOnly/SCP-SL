@@ -10,5 +10,6 @@ Nazwa pluginu | Aktualny
 Admin Toolbox | TAK
 CustomAnnouncements | TAK
 CustomBroadcasts | TAK
+RemoteKeyCard | TAK
 CustomLoadouts | NIE
 SCPermissions | NIE
